@@ -5,7 +5,7 @@ Scripts for "Congruence and Conflict in the Higher-Level Phylogenetics of Squama
 
 Included are scripts for:
 
-	- data processing
-		- note that some data processing was done using existing SqCL pipeline (https://github.com/singhal/SqCL)
-	- data analysis
-	- data visualization
+- data processing
+	- note that some data processing was done using existing SqCL pipeline (https://github.com/singhal/SqCL)
+- data analysis
+- data visualization
